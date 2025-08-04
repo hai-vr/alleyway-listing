@@ -13,6 +13,6 @@
         "forceOutputAuthorAsObject" : true
     },
     "products": [
-        { "repository" : "hai-vr/position-system-to-external-program" }
+        { "repository" : "hai-vr/position-system-to-external-program", "onlyPackageNames": [ "dev.hai-vr.alleyway.position-system-to-external-program" ] }
     ]
 }
