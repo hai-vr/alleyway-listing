@@ -1,0 +1,17 @@
+{
+    "listingData": {
+        "name": "https://alleyway.hai-vr.dev",
+        "author": "Haï~",
+        "url": "https://hai-vr.github.io/alleyway-listing/index.json",
+        "id": "dev.hai-vr.alleyway.alleyway-listing"
+    },
+    "settings" : {
+        "defaultIncludePrereleases" : true,
+        "defaultMode" : "PackageJsonAssetOnly",
+        "excessiveModeToleratesPackageJsonAssetMissing" : true,
+        "includeDownloadCount" : false,
+        "forceOutputAuthorAsObject" : true
+    },
+    "products": [
+    ]
+}
